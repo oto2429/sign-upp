@@ -1,0 +1,83 @@
+body {
+
+    background-color: rgb(71, 71, 228);
+  }
+
+  .shaurma {
+    width: 100%;
+    text-align: center;
+    padding-top: 60px;
+  }
+
+  .yuti {
+    width: 350px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 4px;
+    padding: 20px 30px;
+    text-align: left;
+  }
+
+  .yuti h2 {
+    margin-top: 0;
+  }
+
+  .firstlast {
+    margin-bottom: 10px;
+  }
+
+  .firstlast .saxeli {
+    width: 48%;
+    float: left;
+  }
+
+  .firstlast .saxeli:last-child {
+  float: right;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+  .checkboxdidi {
+    margin-bottom: 15px;
+  }
+
+
+
+  .checkboxdidilabel {
+    font-size: 14px;
+  }
+
+  .checkboxdidi a {
+    color: skyblue;
+    text-decoration: none;
+  }
+
+  .signup-btn {
+    width: 100%;
+    background-color: rgb(73, 73, 228);
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 3px;
+  }
+
+  .login-link {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+  }
+
+  .login-link a {
+    color: skyblue;
+  }
+  .login-link{color: white;}
